@@ -19,7 +19,7 @@ state = { toggle: false }
  
  Display:
  
- # ![](https://i.imgur.com/Kinxwbn.png)
+ # ![](https://i.imgur.com/U9Ap57t.png)
  
  
  Bonus:
