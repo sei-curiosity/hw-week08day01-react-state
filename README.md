@@ -17,6 +17,8 @@ state = { toggle: false }
  ```
  7. The above gets returned and rendered to the dom. Create an event named toggleButton to change the state and render it in the DOM.
  
+ 8. Each time the button is clicked it should change the state and set onOrOff to On or Off.
+ 
  Display:
  
  # ![](https://i.imgur.com/U9Ap57t.png)
