@@ -24,6 +24,6 @@ state = { toggle: false }
  
  Bonus:
  
- Create different styling for when the state changes:
+ Create different styling pertaining to each state change as below:
  - The text displayed turns to green when the Switch is On.
  - The text displayed turns to red when the Switch is Off.
