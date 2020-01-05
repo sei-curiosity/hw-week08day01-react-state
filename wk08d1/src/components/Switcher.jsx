@@ -31,7 +31,7 @@ class Switcher extends Component {
         return ( 
             <div>
                 <React.Fragment>
-        <p><b>Switch is {onOrOff}</b></p>
+        <p className={onOrOff}><b>Switch is {onOrOff}</b></p>
         <button onClick={this.toggleButton}>{ onOrOff }</button>
     </React.Fragment>
             </div>
