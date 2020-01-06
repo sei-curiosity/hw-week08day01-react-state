@@ -16,7 +16,6 @@ class  Switcher  extends Component {
     render() { 
         let {onOrOff} =this.props
         const {toggle}=this.state
-        let {color} =this.state
         if(toggle){
             onOrOff="OFF"
         }else{
